@@ -1,0 +1,10 @@
+#Wed Feb 15 12:38:12 CST 2012
+eclipse.preferences.version=1
+provisioning_profiles/development/B36A1960-AF27-423E-9F0B-4C595CAE0611/appid=com.fuihan.processinglab
+provisioning_profiles/development/B36A1960-AF27-423E-9F0B-4C595CAE0611/filepath=/Users/lin/Downloads/Processing_Lab_DEV.mobileprovision
+provisioning_profiles/development/B36A1960-AF27-423E-9F0B-4C595CAE0611/name=Processing Lab DEV
+provisioning_profiles/development/B36A1960-AF27-423E-9F0B-4C595CAE0611/uuid=B36A1960-AF27-423E-9F0B-4C595CAE0611
+provisioning_profiles/distribution/1AD5F465-0D5E-4701-94D9-5841D9D0B4FF/appid=com.fuihan.processinglab
+provisioning_profiles/distribution/1AD5F465-0D5E-4701-94D9-5841D9D0B4FF/filepath=/Volumes/MAC_Data/iApp Distribution/cert/Processing_Lab_DIST.mobileprovision
+provisioning_profiles/distribution/1AD5F465-0D5E-4701-94D9-5841D9D0B4FF/name=Processing Lab DIST
+provisioning_profiles/distribution/1AD5F465-0D5E-4701-94D9-5841D9D0B4FF/uuid=1AD5F465-0D5E-4701-94D9-5841D9D0B4FF
